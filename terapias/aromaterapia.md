@@ -5,7 +5,4 @@ type: page
 
 <p style="text-align:justify"> Aromaterapia é uma prática terapeutica 100% natural, de baixo risco e raros efeitos colaterais. Ela atua no sistema olfatório, tegumentar (pele) e digestivo de maneira integrada. Como todo tratamento, deve ser utilizada de acordo com as indicações e ser de uso constante para que se atinja o resultado desejado. </p>
 
-<img src="https://raw.githubusercontent.com/CONEXAOSHANTY/conexaoshanty.github.io/master/imagens/imagem_lavanda.png" alt="Lavanda" class="center">
-
-
-<IMG SRC=”https://raw.githubusercontent.com/CONEXAOSHANTY/conexaoshanty.github.io/master/imagens/imagem_lavanda.png” ALIGN=”left” />Esse texto vai a direita <BR CLEAR=”left” />
+<img src="https://raw.githubusercontent.com/CONEXAOSHANTY/conexaoshanty.github.io/master/imagens/imagem_lavanda.png" alt="Lavanda" class="center"> Texto </img>
