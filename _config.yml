@@ -13,11 +13,7 @@ author: Conexão Shanty
 
 navbar-links:
   Yoga: ""
-  Terapias   :
-    - Aromaterapia: "terapias/aromaterapia"  
-    - Barra Access: ""
-    - Reiki: ""
-    - Thetahealing: ""   
+  Terapias: "terapias/terapias"   
   Cursos: ""
   Fotos: ""
   Blog: "blog"
