@@ -27,8 +27,16 @@ Aromaterapia é uma prática terapeutica 100% natural, de baixo risco e raros ef
 
 <p style=" font-size:18pt; font-weight:bold; ">  Reiki </p> 
 
+<p style="text-align:justify"> <img style="float:left" width="110" height="110" src=" 
+ https://image.flaticon.com/icons/svg/3036/3036505.svg"> 
+ [texto]
+ </p>
+
 <p style="text-align:justify"> <img style="float:left" width="110" height="110" src="https://image.flaticon.com/icons/svg/3023/3023819.svg">
+  
 [Texto Reiki] 
 </p> 
-  
+
+
+ 
 
