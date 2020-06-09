@@ -17,13 +17,11 @@ navbar-links:
     - Aromaterapia: "aromaterapia"
     - Barra Access: ""
     - Reiki: ""
-    - Thetahealing: ""
-        
+    - Thetahealing: ""   
   Cursos: ""
-  Produtos: ""
   Fotos: ""
-  Sobre/Contato: "" 
   Blog: "blog"
+  Sobre/Contato: "" 
 
 # --- Logo --- #
 
