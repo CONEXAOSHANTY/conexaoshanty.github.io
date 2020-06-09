@@ -8,4 +8,4 @@ type: page
 <img src="https://raw.githubusercontent.com/CONEXAOSHANTY/conexaoshanty.github.io/master/imagens/imagem_lavanda.png" alt="Lavanda" class="center">
 
 
-<IMG SRC=”https://raw.githubusercontent.com/CONEXAOSHANTY/conexaoshanty.github.io/master/imagens/imagem_lavanda.png” ALIGN=”left” />Esse texto vai a direita
+<IMG SRC=”https://raw.githubusercontent.com/CONEXAOSHANTY/conexaoshanty.github.io/master/imagens/imagem_lavanda.png” ALIGN=”left” />Esse texto vai a direita <BR CLEAR=”left” />
