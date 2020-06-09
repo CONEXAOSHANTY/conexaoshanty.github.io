@@ -23,7 +23,7 @@ navbar-links:
   Produtos: ""
   Fotos: ""
   Sobre/Contato: "" 
-  Blog: "index"
+  Blog: "blog"
 
 # --- Logo --- #
 
@@ -41,7 +41,7 @@ navbar-links:
 #pagination
 gems: [jekyll-paginate]
 paginate: 5
-paginate_path: "index/page:num"
+paginate_path: "blog/page:num"
 
 
 # --- Footer options --- #
