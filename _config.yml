@@ -23,6 +23,7 @@ navbar-links:
   Produtos: ""
   Fotos: ""
   Sobre/Contato: "" 
+  Blog: ""
 
 # --- Logo --- #
 
@@ -36,6 +37,11 @@ navbar-links:
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
+
+#pagination
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "index/page:num"
 
 
 # --- Footer options --- #
