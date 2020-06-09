@@ -23,7 +23,7 @@ navbar-links:
   Produtos: ""
   Fotos: ""
   Sobre/Contato: "" 
-  Blog: ""
+  Blog: "index"
 
 # --- Logo --- #
 
