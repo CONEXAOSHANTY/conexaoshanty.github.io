@@ -8,7 +8,7 @@ type: page
 
 [TEXTO SOBRE TERAPIAS]
 
-<p style=" font-size:18pt; font-weight:bold; "> Aromaterapia </p> 
+<p style=" font-size:18pt; font-weight:bold; "> Aromaterapia   &#10049;</p> 
 
 
 <p style="text-align:justify"> 
