@@ -11,7 +11,7 @@ type: page
 <p style=" font-size:18pt; font-weight:bold; "> Aromaterapia </p> 
 
 
-<p style="text-align:justify"> <img style="float:left" width="110" height="110" src="https://image.flaticon.com/icons/svg/90/90031.svg">
+<p style="text-align:justify"> 
 Aromaterapia é uma prática terapeutica 100% natural, de baixo risco e raros efeitos colaterais. Ela atua no sistema olfatório, tegumentar (pele) e digestivo de maneira integrada. Como todo tratamento, deve ser utilizada de acordo com as indicações e ser de uso constante para que se atinja o resultado desejado.
 </p>
 <p style="text-align:justify">
@@ -41,7 +41,7 @@ A Terapia de Barras de Acess é indicada para pessoas de todas as idades.
 
 <p style=" font-size:18pt; font-weight:bold; ">  Reiki </p> 
 
-<p style="text-align:justify"> <img style="float:left" width="110" height="110" src="https://image.flaticon.com/icons/svg/3023/3023819.svg">
+<p style="text-align:justify">
   REIKI equilibra  a energia do corpo, sintonizando e restaurando, criando para o ser um estado de harmonia consigo mesmo, com o mundo e com o Divino . A técnica consiste de toques suaves em áreas estratégicas do corpo, desbloqueando os canais energéticos, promovendo fluidez da energia vital, ativando o sistema imunológico. Alivia as dores físicas, emocional, mental e espiritual.
 </p> 
 
