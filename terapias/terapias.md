@@ -16,6 +16,15 @@ Aromaterapia é uma prática terapeutica 100% natural, de baixo risco e raros ef
 </p>
 <p style="text-align:justify">
 Os óleos essenciais são a "alma" das plantas. Além de harmonizar suas vibrações, harmoniza também  sua saúde porque são ricos em várias substâncias químicas. No uso do olfato você harmoniza suas emoções e problemas respiratórios, passando na pele como são de fácil absorção, em  15 minutos já caem na sua corrente sanguínea, atuando no corpo físico. Os óleos essenciais devem ser utilizados sempre com a orientação de um aromaterapeuta. Na Aromaterapia o "Menos sempre é mais".
+ 
+Temos para pronta entrega blends de uso individual as seguintes formulações: Blend  Dor de cabeça
+Blend Calma auxilia no tratamento da ansiedade, stress, agitação mental
+Blende Ânimo
+Blend Alegria auxilia no tratamento de sintomas como tristeza, choro, depressão, desânimo
+Blend TPM  Tratamento do mal estar pré menstrual e menopausa
+Para qualquer outra situação, entre em contato para que possamos conversar e analisar a formulação mais adequada. 
+
+Fazemos entrega em domicilio
 </p>
 
 <p style=" font-size:18pt; font-weight:bold;"> Barra Access </p> 
@@ -29,6 +38,8 @@ A Terapia de Barra de Acess  auxilia no tratamento para :
 Alguns Beneficios:
 Possibilita um relaxamento profundo, promove clareza mental , diminui as tensões físicas ,acalma a mente constituindo uma ótima ferramenta na busca da harmonia e equilíbrio interno.
 A Terapia de Barras de Acess é indicada para pessoas de todas as idades.
+
+Entre em contato para agendarmos uma sessão. Teremos prazer em atendê-lo(a).
 </p>
 
 
@@ -36,6 +47,7 @@ A Terapia de Barras de Acess é indicada para pessoas de todas as idades.
 <p style=" font-size:18pt; font-weight:bold; "> ThethaHealing </p>
 
 <p style="text-align:justify"> A frequência theta é o estado de relaxamento profundo , um elo entre o consciente e o inconsciente,  momento de fluxo de idéias, onde  a comunicação com o CRIADOR é instantânea e direta, sensibilidade e a intuição fluem , assim como a capacidade de realizar leituras intuitivas e curas nos níveis físico, mental e espiritual, desbloqueando as crenças limitantes.  O thetahealing é uma técnica desenvolvida para acessar o estado theta e utiliza la para melhorar a qualidade de vida , promover desenvolvimento espiritual emocional, e se  tornar co criador de uma nova realidade.
+ Entre em contato para agendarmos uma sessão. Teremos prazer em atendê-lo(a)
 </p>
 
 
@@ -43,6 +55,7 @@ A Terapia de Barras de Acess é indicada para pessoas de todas as idades.
 
 <p style="text-align:justify">
   REIKI equilibra  a energia do corpo, sintonizando e restaurando, criando para o ser um estado de harmonia consigo mesmo, com o mundo e com o Divino . A técnica consiste de toques suaves em áreas estratégicas do corpo, desbloqueando os canais energéticos, promovendo fluidez da energia vital, ativando o sistema imunológico. Alivia as dores físicas, emocional, mental e espiritual.
+ Entre em contato para agendarmos uma sessão. Teremos prazer em atendê-lo(a)
 </p> 
 
 
