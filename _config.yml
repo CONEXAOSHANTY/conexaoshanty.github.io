@@ -12,7 +12,7 @@ author: Conexão Shanty
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Yoga: ""
+  Yoga: "yoga"
   Terapias: "terapias/terapias"   
   Cursos: ""
   Fotos: "galerias/fotos_sala"
