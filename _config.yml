@@ -17,7 +17,7 @@ navbar-links:
   Cursos: ""
   Fotos: "galerias/fotos_sala"
   Blog: "blog"
-  Sobre/Contato: "" 
+  Sobre/Contato: "sobre" 
 
 # --- Logo --- #
 
